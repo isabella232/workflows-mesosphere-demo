@@ -1,6 +1,6 @@
 ##  Wercker Workflows and Mesosphere sample application
 
-Sample Todo application that showcases [Wercker Workflows](http://wercker.com/workflows/) in action alongside [Mesosphere](http://mesosphere.com). You can follow along with [this tutorial](http://devcenter.wercker.com/quickstarts/workflows/mesosphere.md) to set up continuous deployment to Marathon on DC/OS.
+Sample Todo application that showcases [Wercker Workflows](http://wercker.com/workflows/) in action alongside [Mesosphere](http://mesosphere.com). You can follow along with [this tutorial](http://devcenter.wercker.com/quickstarts/workflows/mesosphere.html) to set up continuous deployment to Marathon on DC/OS.
 
 This sample application shows two Workflows. Please see the `wercker.yml` file for more details.
 
